@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praveenchapala" alt="praveenchapala" /></a> </p>
 
-- 🔭 I’m currently working on **E-Commerce Website**
+- 🔭 I’m currently working on **My Technical Skills**
 
 - 🌱 I’m currently learning **Data Structures & Algorithms in Java, Full Stack Web development**
 
-- 👯 I’m looking to collaborate on **Mental Health chat bot**
+- 👯 I’m looking to collaborate on **Fin Tech Project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/praveenchapala](https://github.com/praveenchapala)
 
-- 💬 Ask me about **Web development, Beginner friendly Tech guidance, Data science , Communication Tips 💡**
+- 💬 Ask me about **Web development, Beginner friendly Tech guidance, Github ,API Development,API Testing, Quality  Assurance, Building agentic AI Systems,N8N, Communication Tips 💡**
 
 - 📫 How to reach me **praveenpraveensimhadri@gmail.com**
 
