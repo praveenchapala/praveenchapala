@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chapala Praveen</h1>
-<h3 align="center">Iam a Web developer, AI Enthusiast, Web Designer, Java Developer, Software Engineer</h3>
+<h3 align="center">Iam a Full Stack Developer, AI Enthusiast , Java Developer, Software Engineer , Building Agentic AI Systems  </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveenchapala&label=Profile%20views&color=0e75b6&style=flat" alt="praveenchapala" /> </p>
 
