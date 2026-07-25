@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **praveenpraveensimhadri@gmail.com**
 
-- 📄 My Resume [https://drive.google.com/file/d/18Xt7HEg-975LCWwgZX223LuFbP2ilbvz/view?usp=drivesdk](https://drive.google.com/file/d/18Xt7HEg-975LCWwgZX223LuFbP2ilbvz/view?usp=drivesdk)
+- 📄 My Resume [https://drive.google.com/file/d/18Xt7HEg-975LCWwgZX223LuFbP2ilbvz/view?usp=drivesdk](https://drive.google.com/file/d/1X03VDLoWsTI3qqbMImntKgYWSU7lMuw7/view?usp=sharing)
 
 - ⚡ Fun fact **🧠 I talk to my code… and sometimes, it talks back!**
 
