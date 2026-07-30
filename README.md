@@ -1,38 +1,188 @@
-<h1 align="center">Hi 👋, I'm Chapala Praveen</h1>
-<h3 align="center">Iam a Full Stack Developer, AI Enthusiast , Java Developer, Software Engineer , Building Agentic AI Systems  </h3>
+<h1 align="center">
+Building Software That Solves Real Problems
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=praveenchapala&label=Profile%20views&color=0e75b6&style=flat" alt="praveenchapala" /> </p>
+<h3 align="center">
+Java Backend Developer • Full Stack Engineer • Open Source Contributor • AI Automation Builder
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praveenchapala" alt="praveenchapala" /></a> </p>
-
-- 🔭 I’m currently working on **My Technical Skills**
-
-- 🌱 I’m currently learning **Data Structures & Algorithms in Java, Full Stack Web development**
-
-- 👯 I’m looking to collaborate on **Fin Tech Project**
-
-- 👨‍💻 All of my projects are available at [https://github.com/praveenchapala](https://github.com/praveenchapala)
-
-- 💬 Ask me about **Web development, Beginner friendly Tech guidance, Github ,API Development,API Testing, Quality  Assurance, Building agentic AI Systems,N8N, Communication Tips 💡**
-
-- 📫 How to reach me **praveenpraveensimhadri@gmail.com**
-
-- 📄 My Resume [https://drive.google.com/file/d/18Xt7HEg-975LCWwgZX223LuFbP2ilbvz/view?usp=drivesdk](https://drive.google.com/file/d/1X03VDLoWsTI3qqbMImntKgYWSU7lMuw7/view?usp=sharing)
-
-- ⚡ Fun fact **🧠 I talk to my code… and sometimes, it talks back!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/chapala-praveen?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chapala-praveen?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/alone2empire" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="alone2empire" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/praveenchapala/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/praveenchapala/" height="30" width="40" /></a>
+<p align="center">
+From learning databases and APIs to building enterprise backend systems and AI-powered automations.
+<br>
+Currently documenting everything I learn in public.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=praveenchapala&show_icons=true&locale=en&layout=compact" alt="praveenchapala" /></p>
+## 👋 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=praveenchapala&show_icons=true&locale=en" alt="praveenchapala" /></p>
+I'm Praveen, a Computer Science student passionate about building software instead of only collecting certificates.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=praveenchapala&" alt="praveenchapala" /></p>
+I enjoy creating projects that improve my backend engineering, system design, API development, databases, automation, and software engineering skills.
+
+My goal is simple:
+
+> Build products.
+> Contribute to open source.
+> Become an exceptional Software Engineer.
+
+---
+
+## 🚀 Current Mission
+
+- Building **Project Aurora**
+- Mastering Java Backend Development
+- Learning System Design
+- Contributing to Open Source
+- Writing technical documentation
+- Sharing everything publicly on LinkedIn & GitHub
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+- Java
+- SQL
+- JavaScript
+- HTML
+- CSS
+
+### Backend
+
+- Spring Boot
+- Spring MVC
+- Spring Data JPA
+- REST APIs
+- Hibernate
+
+### Database
+
+- MySQL
+- PostgreSQL
+- Flyway
+
+### Frontend
+
+- React
+- Tailwind CSS
+- Vite
+
+### Tools
+
+- Git
+- GitHub
+- Postman
+- Docker
+- Maven
+- VS Code
+- IntelliJ IDEA
+
+### Exploring
+
+- System Design
+- Microservices
+- AI Agents
+- n8n
+- Cloud
+
+---
+
+## 📂 Featured Projects
+
+### 🚀 Project Aurora
+
+An enterprise backend project focused on clean architecture, scalable APIs, authentication, database migrations, testing, documentation, and production-ready engineering practices.
+
+---
+
+### 🤖 AI Automation Systems
+
+Building workflow automation using AI, APIs, PostgreSQL, and n8n.
+
+---
+
+### 📘 SQL Learning Repository
+
+A beginner-to-advanced SQL learning repository with structured notes and practical examples.
+
+---
+
+### 🌍 Open Source
+
+Actively looking for meaningful open-source contributions and long-term projects.
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=praveenchapala&show_icons=true&theme=github_dark"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=praveenchapala&theme=github-dark"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenchapala&layout=compact&theme=github_dark"/>
+
+</p>
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Java
+- Spring Boot
+- Database Design
+- Flyway
+- REST APIs
+- System Design
+- DSA
+- Clean Architecture
+
+---
+
+## 🌱 2026 Goals
+
+- Contribute to 100+ Open Source Pull Requests
+- Build production-ready backend applications
+- Master Spring Boot ecosystem
+- Learn Microservices
+- Build scalable AI products
+- Land an excellent Software Engineering role
+
+---
+
+## 🤝 Let's Collaborate
+
+I'm interested in collaborating on:
+
+- Backend Development
+- Java Projects
+- Open Source
+- AI Automation
+- Developer Tools
+
+---
+
+## 📫 Connect With Me
+
+GitHub
+
+https://github.com/praveenchapala
+
+LinkedIn
+
+https://linkedin.com/in/praveenchapala
+
+Email
+
+praveenpraveensimhadri@gmail.com
+
+---
+
+<p align="center">
+
+"Every repository is another step toward becoming a better engineer."
+
+</p>
