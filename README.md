@@ -1,188 +1,39 @@
-<h1 align="center">
-Building Software That Solves Real Problems
-</h1>
+<h1 align="center">Hi 👋, I'm Chapala Praveen</h1>
+<h3 align="center">Building scalable backend systems designed for high throughput, low latency, and real-world workloads. Passionate about open source, AI automation, and solving real-world problems.</h3>
 
-<h3 align="center">
-Java Backend Developer • Full Stack Engineer • Open Source Contributor • AI Automation Builder
-</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=praveenchapala&label=Profile%20views&color=0e75b6&style=flat" alt="praveenchapala" /> </p>
 
-<p align="center">
-From learning databases and APIs to building enterprise backend systems and AI-powered automations.
-<br>
-Currently documenting everything I learn in public.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praveenchapala" alt="praveenchapala" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 🔭 I’m currently working on [Project-Aurora](https://github.com/praveenchapala/Project-Aurora)
+
+- 🌱 I’m currently learning **Java Backend Development, Spring Boot, System Design, and Scalable Software Architecture**
+
+- 👯 I’m looking to collaborate on **Fintech-Project**
+
+- 👨‍💻 All of my projects are available at [https://master-portfolio-nine.vercel.app/](https://master-portfolio-nine.vercel.app/)
+
+- 💬 Ask me about **AI Automations,Agentic Ai, Communication tips**
+
+- 📫 How to reach me **praveenpraveensimhadri@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/13s1c5Tr_4mx1slQ6VYMGfB4BzvafhKpT/view?usp=sharing](https://drive.google.com/file/d/13s1c5Tr_4mx1slQ6VYMGfB4BzvafhKpT/view?usp=sharing)
+
+- ⚡ Fun fact **I Talk to code sometimes it talks back**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/chapala-praveen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chapala-praveen/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/praveenchapala/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/praveenchapala/" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-## 👋 About Me
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=praveenchapala&show_icons=true&locale=en&layout=compact" alt="praveenchapala" /></p>
 
-I'm Praveen, a Computer Science student passionate about building software instead of only collecting certificates.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=praveenchapala&show_icons=true&locale=en" alt="praveenchapala" /></p>
 
-I enjoy creating projects that improve my backend engineering, system design, API development, databases, automation, and software engineering skills.
-
-My goal is simple:
-
-> Build products.
-> Contribute to open source.
-> Become an exceptional Software Engineer.
-
----
-
-## 🚀 Current Mission
-
-- Building **Project Aurora**
-- Mastering Java Backend Development
-- Learning System Design
-- Contributing to Open Source
-- Writing technical documentation
-- Sharing everything publicly on LinkedIn & GitHub
-
----
-
-## 🛠 Tech Stack
-
-### Languages
-
-- Java
-- SQL
-- JavaScript
-- HTML
-- CSS
-
-### Backend
-
-- Spring Boot
-- Spring MVC
-- Spring Data JPA
-- REST APIs
-- Hibernate
-
-### Database
-
-- MySQL
-- PostgreSQL
-- Flyway
-
-### Frontend
-
-- React
-- Tailwind CSS
-- Vite
-
-### Tools
-
-- Git
-- GitHub
-- Postman
-- Docker
-- Maven
-- VS Code
-- IntelliJ IDEA
-
-### Exploring
-
-- System Design
-- Microservices
-- AI Agents
-- n8n
-- Cloud
-
----
-
-## 📂 Featured Projects
-
-### 🚀 Project Aurora
-
-An enterprise backend project focused on clean architecture, scalable APIs, authentication, database migrations, testing, documentation, and production-ready engineering practices.
-
----
-
-### 🤖 AI Automation Systems
-
-Building workflow automation using AI, APIs, PostgreSQL, and n8n.
-
----
-
-### 📘 SQL Learning Repository
-
-A beginner-to-advanced SQL learning repository with structured notes and practical examples.
-
----
-
-### 🌍 Open Source
-
-Actively looking for meaningful open-source contributions and long-term projects.
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=praveenchapala&show_icons=true&theme=github_dark"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=praveenchapala&theme=github-dark"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenchapala&layout=compact&theme=github_dark"/>
-
-</p>
-
----
-
-## 📚 Currently Learning
-
-- Advanced Java
-- Spring Boot
-- Database Design
-- Flyway
-- REST APIs
-- System Design
-- DSA
-- Clean Architecture
-
----
-
-## 🌱 2026 Goals
-
-- Contribute to 100+ Open Source Pull Requests
-- Build production-ready backend applications
-- Master Spring Boot ecosystem
-- Learn Microservices
-- Build scalable AI products
-- Land an excellent Software Engineering role
-
----
-
-## 🤝 Let's Collaborate
-
-I'm interested in collaborating on:
-
-- Backend Development
-- Java Projects
-- Open Source
-- AI Automation
-- Developer Tools
-
----
-
-## 📫 Connect With Me
-
-GitHub
-
-https://github.com/praveenchapala
-
-LinkedIn
-
-https://linkedin.com/in/praveenchapala
-
-Email
-
-praveenpraveensimhadri@gmail.com
-
----
-
-<p align="center">
-
-"Every repository is another step toward becoming a better engineer."
-
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=praveenchapala&" alt="praveenchapala" /></p>
