@@ -189,38 +189,6 @@ I believe great software is built through continuous learning, clean architectur
 </td>
 </tr>
 </table>
-
-
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    permissions:
-      contents: write
-
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: praveenchapala
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
 ---
 <!-- ============================== -->
 <!--          EXPERIENCE           -->
@@ -288,6 +256,20 @@ Worked in a fast-paced startup environment where I contributed across **Software
 <img src="https://img.shields.io/badge/STLC-4F46E5?style=flat-square"/>
 
 </p>
+
+---
+
+<!-- ============================== -->
+<!--    CONTRIBUTION ACTIVITY      -->
+<!-- ============================== -->
+
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="28" /> Contribution Graph
+
+<div align="center">
+
+[![Praveen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=praveenchapala&theme=tokyo-night&hide_border=true&radius=16&area=true&custom_title=Contribution%20Graph)](https://github.com/praveenchapala)
+
+</div>
 
 ---
 
