@@ -271,35 +271,6 @@ Worked in a fast-paced startup environment where I contributed across **Software
 
 </div>
 
----
-
-<!-- ============================== -->
-<!--       GITHUB ANALYTICS        -->
-<!-- ============================== -->
-
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> GitHub Analytics
-
-> Insights into my development activity, programming languages, repository contributions, and overall GitHub journey.
-
-<br>
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=praveenchapala&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true&icon_color=8B5CF6&title_color=A855F7&text_color=C9D1D9&bg_color=0D1117"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenchapala&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&border_radius=15&title_color=A855F7&text_color=C9D1D9&bg_color=0D1117"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="85%" src="https://streak-stats.demolab.com?user=praveenchapala&theme=tokyonight&hide_border=true&border_radius=15&background=0D1117&ring=8B5CF6&fire=A855F7&currStreakLabel=A855F7"/>
-
-</div>
----
-
 <!-- ============================== -->
 <!--         CONNECT WITH ME       -->
 <!-- ============================== -->
