@@ -287,43 +287,6 @@ Worked in a fast-paced startup environment where I contributed across **Software
 </div>
 ---
 
----
-<!-- ============================== -->
-<!--        GITHUB TROPHIES        -->
-<!-- ============================== -->
-
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="28" /> GitHub Trophies
-
-> Milestones earned through continuous contributions, repository activity, and community engagement.
-
-<br>
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=praveenchapala&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4"/>
-
-</div>
-
----
-
-<!-- ============================== -->
-<!--    CONTRIBUTION ACTIVITY      -->
-<!-- ============================== -->
-
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="28" /> Contribution Activity
-
-> A visual representation of my development consistency, coding habits, and contribution journey.
-
-<br>
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=praveenchapala&theme=tokyo-night&hide_border=true&radius=15&area=true"/>
-
-</div>
-
----
-
 <!-- ============================== -->
 <!--         CONNECT WITH ME       -->
 <!-- ============================== -->
