@@ -142,7 +142,6 @@ I believe great software is built through continuous learning, clean architectur
 
 • Agentic AI Systems
 
-• LLM Integration
 
 </p>
 
