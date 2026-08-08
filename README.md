@@ -309,7 +309,7 @@ Worked in a fast-paced startup environment where I contributed across **Software
 
 <div align="center">
 
-> **"Great software isn't measured by the amount of code written—it's measured by the value it creates, the problems it solves, and the lives it improves."**
+> **"Great software isn't measured by the amount of code written—it is measured by the value it creates, the problems it solves, and the lives it improves."**
 
 <br>
 
