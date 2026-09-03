@@ -13,7 +13,7 @@
 
 <img src="https://img.shields.io/badge/CGPA-8.89%2F10-7C3AED?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/2026-Graduate-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/2026-Under Graduate-8B5CF6?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Bangalore-India-4F46E5?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
